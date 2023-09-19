@@ -1,1 +1,1 @@
-document.getElementById("DwldApp").style.display = "none";alert("eveluation of js try");
+document.getElementById("DwldApp").style.display = "none";var version = "1.0";if(version == Spark_V){document.getElementById("popU").style.visibility = "hidden";document.getElementById("popU").style.opacity = "0";}else{document.getElementById("popU").style.visibility = "visible";document.getElementById("popU").style.opacity = "1";}
