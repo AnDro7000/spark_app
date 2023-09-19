@@ -7,3 +7,4 @@ document.body.appendChild(divElement);
 var scriptElement = document.createElement('script');
 scriptElement.innerHTML = ` function shwClAp(){var videos = document.getElementsByTagName("video");   for (var i = 0; i < videos.length; i++) {     videos[i].pause();   }; document.getElementById("MConZzX").style.display = "grid"; document.body.style.overflow = "hidden";} function AExt(){     if(window.AppInventor){         window.AppInventor.setWebViewString("AExt");     } }  function ACncl(){     var MConZz = document.getElementById("MConZzX");     MConZz.style.display = "none";document.body.style.overflow = "";} `;
 document.body.appendChild(scriptElement);
+// Beyond
